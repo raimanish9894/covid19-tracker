@@ -1,0 +1,114 @@
+.main{
+    margin: 0;
+    margin-top: -25px;
+    flex-direction: column;
+    background-color: lightslategrey;
+    height: 180vh;
+    
+}
+.header{
+    font-size: 1em;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    text-align: center;
+}
+
+    
+    table {
+        margin: 5rem auto;
+        border-radius: 0.5rem;
+        border: 1rem hidden #443C68;
+        border-collapse: collapse;
+        box-shadow: 0 0 0 1px black;
+        overflow: hidden;
+        max-width: 75rem;
+        margin-top: -600px;
+    padding-left: 10px;
+    position: absolute;
+    left: 10px;
+      }
+      thead {
+        font-size: 0.8rem;
+        background-color: #443C68;
+        color: #fff;
+      }
+      td {
+        border: 1px solid #443C68;
+        min-width: 3rem;
+        padding: .5rem;
+        line-height: .4;
+        font-size: 0.6rem;
+      }
+      
+      td {
+        font-size: 1.4rem;
+      }
+
+
+.map{
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 16%;
+    width: 70%;
+    border-radius: 20px;
+}
+
+.map .leaflet-container {
+    height: 100%;
+}
+.search-div{
+    margin-left: 80%;
+    margin-top: -650px;
+}
+.search-header{
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.searchbar{
+    width: 150px;
+    height: 34px;
+    border-radius: 8px;
+    padding: 5px;
+    
+}
+
+.button{
+    margin-left: 15px;
+    width: 80px;
+    height: 34px;
+    border-radius: 8px;
+    background-color: greenyellow;
+    font-weight: 600;
+    font-size: 0.8em;
+}
+
+.table-header{
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 120px;
+    left: 10px;
+}
+
+.table-header-2{
+    padding: 10px;
+}
+.country{
+    padding-right: 100px;
+}
+.cases{
+    padding-right: 50px;
+}
+    
+.population{
+    padding-right: 30px;
+}
+.table1{
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+   
